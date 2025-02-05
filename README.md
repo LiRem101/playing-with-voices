@@ -7,7 +7,7 @@ Supplementary material for the submission to ACL.
 
 ## Abstract
 
-> This paper provides a proof of concept that audio of tabletop role-playing games (TTRPG) could serve as a new challenge for diarization systems. TTRPGs are games that are carried out mostly by conversation. Participants often alter their voices to indicate that they are talking as a fictional character in a game. Audio processing systems are susceptible to voice conversion with or without technological assistance. TTRPG presents a conversational phenomenon in which voice conversion is an inherent characteristic for an immersive gaming experience. We present the creation of a small TTRPG audio dataset and compare it against the AMI and the ICSI corpus. The performance of two diarizers, pyannote.audio and wespeaker, were evaluated. We observed that TTRPGs' properties result in a higher confusion rate for both diarizers.
+> This paper provides a proof of concept that audio of tabletop role-playing games (TTRPG) could serve as a challenge for diarization systems. TTRPGs are carried out mostly by conversation. Participants often alter their voices to indicate that they are talking as a fictional character. Audio processing systems are susceptible to voice conversion with or without technological assistance. TTRPG present a conversational phenomenon in which voice conversion is an inherent characteristic for an immersive gaming experience. This could make it more challenging for diarizers to pick the real speaker and determine that impersonating is just that. We present the creation of a small TTRPG audio dataset and compare it against the AMI and the ICSI corpus. The performance of two diarizers, pyannote.audio and wespeaker, were evaluated. We observed that TTRPGs' properties result in a higher confusion rate for both diarizers.
 Additionally, wespeaker strongly underestimates the number of speakers in the TTRPG audio files.
 We propose TTRPG audio as a promising challenge for diarization systems.
 
@@ -135,6 +135,12 @@ python main.py -mw <options>
 ## Links to YouTube videos
 
 The links to the used YouTube videos can be found in the `links.txt` file.
+
+## Citation
+
+If you use the contents of this repository, please cite the corresponding publication.
+
+The bibtex template will be added later.
 
 
 ## Disclosure about AI usage
