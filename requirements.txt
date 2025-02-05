@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2025 Lian Remme <lian.remme@uni-duesseldorf.de>
+#
+# SPDX-License-Identifier: MIT
+
 aiohttp==3.9.3
 aiosignal==1.3.1
 alembic==1.13.1

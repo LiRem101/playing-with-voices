@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2025 Lian Remme <lian.remme@uni-duesseldorf.de>
+
+SPDX-License-Identifier: MIT
+-->
+
 # Playing with Voices: Tabletop Role-Playing Game Recordings as a Diarization Challenge
 
 ![Python Version 3.11.6](https://img.shields.io/badge/Python-3.11.6-green)
