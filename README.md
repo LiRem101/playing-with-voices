@@ -25,6 +25,7 @@ In this repository, we provide the following:
 - [Code: How we calculated the amount of interjections](#calculation-of-interjections)
 - [Code: How we applied the Mann-Whitney U test](#application-of-mann-whitney-u-test)
 - [Links: The YouTube videos we used for our TTRPG dataset](#links-to-youtube-videos)
+- [Citation](#citation)
 
 
 ## Application of the diarizer 
