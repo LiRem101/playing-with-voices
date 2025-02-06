@@ -147,7 +147,18 @@ The links to the used YouTube videos can be found in the `links.txt` file.
 
 If you use the contents of this repository, please cite the corresponding publication.
 
-The bibtex template will be added later.
+```bibtex
+@InProceedings{remmetang-2025-tabletop,
+  author = {Lian Remme and Kevin Tang},
+  title = {Playing with Voices: Tabletop Role-Playing Game Recordings as a Diarization Challenge},
+  booktitle = {Findings of the {A}ssociation for {C}omputational {L}inguistics: {NAACL} 2025},
+  year = {2025},
+  publisher = {Association for Computational Linguistics},
+  month = {04},
+  pubstate = {forthcoming},
+  address = {New Mexico, USA},
+}
+```
 
 
 ## Disclosure about AI usage
